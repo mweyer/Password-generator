@@ -1,2 +1,2 @@
 # Password-generator
-![alt text] (
+![alt text] (https://github.com/mweyer/Password-generator/blob/main/Assets/images/Completed-SS.png)
